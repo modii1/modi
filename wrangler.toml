@@ -1,6 +1,0 @@
-name = "modi"
-main = "dist/public/index.html"
-compatibility_date = "2023-10-01"
-
-[site]
-bucket = "./dist/public"
